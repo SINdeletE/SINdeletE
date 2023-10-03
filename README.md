@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SINdeletE
-- 👀 I’m interested in Games, music, etc
-- 🌱 I’m currently learning C++ and SQL
+- 👀 IT, music, etc
+- 🌱 I’m currently learning Python and......
 - 💞️ I'm not ready to collaborate, sorry
 - 📫 not now
